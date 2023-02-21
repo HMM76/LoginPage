@@ -11,6 +11,7 @@ class Login extends StatefulWidget {
 
 class _LoginState extends State<Login> {
   int currentIndex = 0;
+  int a = 0;
   @override
   Widget build(BuildContext context) {
     return Scaffold(
